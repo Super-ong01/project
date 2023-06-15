@@ -10,5 +10,6 @@
   <input type="file"  name="photo"><br><br>
 
 
+
   <input type="submit" value="Submit">
 </form>
